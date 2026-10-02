@@ -1,4 +1,25 @@
+Hi, I am Haseeb Qureshi 👋
 
+🎓 Software Engineering Student from Azad Kashmir, Pakistan
+
+I’m passionate about Web Development, Software Engineering, and Digital Marketing. I enjoy learning new technologies and building practical projects.
+
+👨‍💻 About Me
+	•	🌱 Currently learning Web Development & Programming
+	•	💻 Interested in Software & Web Development
+	•	🤝 Looking to collaborate on Web & Software Projects
+	•	🚀 Always learning and exploring new technologies
+	•	⚡ Fun fact: I love turning ideas into real projects!
+
+🛠️ Skills
+
+HTML CSS JavaScript C++ WordPress Shopify SEO Digital Marketing
+
+📫 Contact Me
+
+📧 Email: ahaseeb.qureshi118@gmail.com
+
+Let’s connect, collaborate & build something amazing!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CopEyTPNK/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/haseeb.qurexhi33?stkn=MWgzeDkyMDR3cWhneA%3D%3D&utm_source=qr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@haseeb.qureshi91) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/haseebqureztxc?s=11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtu.be/fdDSZGBSeiw?si=WvpZOdW8f09Ed76w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahaseeb.qureshi118@gmail.com) 
 
