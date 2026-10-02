@@ -20,12 +20,11 @@ HTML CSS JavaScript C++ WordPress Shopify SEO Digital Marketing
 📧 Email: ahaseeb.qureshi118@gmail.com
 
 Let’s connect, collaborate & build something amazing!
+🏆 GitHub Trophies
 
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=technosnag&theme=radical&row=1&column=6)
-## 🌐 Socials:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haseebqureshi&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
